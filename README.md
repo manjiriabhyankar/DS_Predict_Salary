@@ -6,6 +6,6 @@
   
 # Technologies/Algoithms used
   Data collection using Selenium and Spyder
-  Data cleaning
+  </br> Data cleaning
   
  
