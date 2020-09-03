@@ -4,7 +4,7 @@
    https://www.youtube.com/c/kenjee1
   
   
-# Technologies/Algoithms used:           *
+# Technologies/Algoithms used:
    * Data collection using Selenium and Spyder
    * Data cleaning
    * EDA
